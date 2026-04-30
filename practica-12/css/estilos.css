@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+    margin: 0;
+}
+
+/* NAV */
+nav {
+    background-color: #1a1a1a;
+    padding: 10px;
+}
+
+ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+/* CONTENIDO */
+main {
+    padding: 20px;
+}
+
+p {
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-family: sans-serif;
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+/* VIDEO */
+iframe {
+    display: block;
+    margin: 20px auto;
+}
+
+/* FOOTER */
+footer {
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
