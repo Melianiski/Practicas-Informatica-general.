@@ -1,0 +1,77 @@
+/* ----------------------------------------------- */
+/* Estilos body */
+/* ----------------------------------------------- */
+body {
+    background-color: black;
+    font-family: 'Smooch Sans', sans-serif;
+}
+
+
+/* ----------------------------------------------- */
+/* Estilos de menu navegación */
+/* ----------------------------------------------- */
+
+nav {
+    background-color: rgb(116, 115, 115);
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav a {
+    display: block;
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: rgb(255, 0, 0);
+}
+
+
+nav a:link {
+    background-color: rgb(49, 49, 48);
+}
+
+
+
+/* ----------------------------------------------- */
+/* Contenedor, textos e imagenes*/
+/* ----------------------------------------------- */
+#contenedor {
+    width: 100%;
+    max-width: 900px;
+    background-color: rgb(75, 74, 74);
+}
+
+#caja {
+    width: 100%;
+    max-width: 700px;
+    background-color: rgb(75, 74, 74);
+}
+
+
+h1, h2, h3, p, ul {
+    color: white;
+    text-align: center;
+    list-style-type: none;
+    font-family: 'IBM Plex Serif', serif;
+
+}
+
+img {
+    display: block;
+    margin: 1rem;
+
+    
+}
+
+
